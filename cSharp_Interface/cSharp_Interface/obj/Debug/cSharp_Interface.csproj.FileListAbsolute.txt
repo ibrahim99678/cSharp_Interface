@@ -1,0 +1,7 @@
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharp_Interface\cSharp_Interface\bin\Debug\cSharp_Interface.exe.config
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharp_Interface\cSharp_Interface\bin\Debug\cSharp_Interface.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharp_Interface\cSharp_Interface\bin\Debug\cSharp_Interface.pdb
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharp_Interface\cSharp_Interface\obj\Debug\cSharp_Interface.csproj.AssemblyReference.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharp_Interface\cSharp_Interface\obj\Debug\cSharp_Interface.csproj.CoreCompileInputs.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharp_Interface\cSharp_Interface\obj\Debug\cSharp_Interface.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\cSharp_Interface\cSharp_Interface\obj\Debug\cSharp_Interface.pdb
